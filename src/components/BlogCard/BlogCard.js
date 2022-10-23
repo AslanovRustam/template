@@ -15,8 +15,6 @@ import {
 } from './BlogCard.styled';
 import { formatDateToNow } from '../../helper/formDateToNow';
 
-// import { formatDistanceToNow } from 'date-fns';
-
 export function BlogCard({
   poster,
   tag,
